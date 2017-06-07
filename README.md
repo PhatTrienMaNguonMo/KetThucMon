@@ -18,13 +18,13 @@ Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càn
 <hr>
 <b>Chức năng dự kiến của phần mềm </b>
 <li>Quản lý hàng hóa  </li>
- -In ra danh sách mặt hàng (theo tên , thể loại ,..)
+ -In ra danh sách mặt hàng (theo tên , thể loại ,..)<br>
  -Cập nhật (thêm, xóa, sửa) mặt hàng.
-<br/><li>Quản lý nhân viên ( quản lý).</li>
- <br/> -In ra danh sách tài khoản nhân viên ( cả danh sách nhân viên ).
- <br/> -Cập nhật ( thêm , xóa ,sửa) id nhân viên , khách hàng .
-<br/><li>Quản lý bán hàng (nhân viên bán hàng   ).</li>
-  <br/>-In ra tổng doanh thu theo ngày . 
-  <br/>-In hóa đơn sản phẩm .
+<li>Quản lý nhân viên ( quản lý).</li>
+ -In ra danh sách tài khoản nhân viên ( cả danh sách nhân viên ).<br>
+ -Cập nhật ( thêm , xóa ,sửa) id nhân viên , khách hàng .
+<li>Quản lý bán hàng (nhân viên bán hàng   ).</li>
+  -In ra tổng doanh thu theo ngày . <br>
+  -In hóa đơn sản phẩm .<br>
   ....................................
 
