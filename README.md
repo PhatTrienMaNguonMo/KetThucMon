@@ -8,8 +8,7 @@ Thực hiện :<li>Phạm Tiến Đạt </li>
                    <li>Thái Thành Phước</li><br/>
 <br/>
 <b>Bối cảnh:</b>
-<hr>
-<br>Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càng nhanh chóng và mạnh mẽ, việc ứng dụng Công nghệ thông tin vào đời sống ngày càng phổ biến rộng rãi. Ngay cả những cửa hàng nhỏ và vừa ở Việt Nam cũng đã áp dụng Công nghệ thông tin vào việc quản lý việc kinh doanh. 
+Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càng nhanh chóng và mạnh mẽ, việc ứng dụng Công nghệ thông tin vào đời sống ngày càng phổ biến rộng rãi. Ngay cả những cửa hàng nhỏ và vừa ở Việt Nam cũng đã áp dụng Công nghệ thông tin vào việc quản lý việc kinh doanh. 
 <br>Cửa hàng quần áo CDKShop cũng không nằm ngoài xu thế phát triển này, ngoài việc ứng dụng Công nghệ thông tin vào việc quản lý hàng hóa, CDKShop còn có website giới thiệu các mặt hàng, cập nhật thông tin khuyến mại, giá cả sách, giúp người mua có thể có thông tin chính xác nhất  về các mặt hàng mình cần trong thời gian ngắn nhất.
 
 <b>Sơ lược về phần mềm quản lý :</b> 
