@@ -6,14 +6,12 @@ Thực hiện :<li>Phạm Tiến Đạt </li>
                    <li> Dương Trung Kiên</li>
                    <li>Trần Minh Cường</li>
                    <li>Thái Thành Phước</li><br/>
-<br/>
-<b>Bối cảnh:</b>
+<br/>.
+<b>Bối cảnh:</b><br>
 Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càng nhanh chóng và mạnh mẽ, việc ứng dụng Công nghệ thông tin vào đời sống ngày càng phổ biến rộng rãi. Ngay cả những cửa hàng nhỏ và vừa ở Việt Nam cũng đã áp dụng Công nghệ thông tin vào việc quản lý việc kinh doanh. 
 <br>Cửa hàng quần áo CDKShop cũng không nằm ngoài xu thế phát triển này, ngoài việc ứng dụng Công nghệ thông tin vào việc quản lý hàng hóa, CDKShop còn có website giới thiệu các mặt hàng, cập nhật thông tin khuyến mại, giá cả sách, giúp người mua có thể có thông tin chính xác nhất  về các mặt hàng mình cần trong thời gian ngắn nhất.
 
-<b>Sơ lược về phần mềm quản lý :</b> 
-<hr>
-
+<b>Sơ lược về phần mềm quản lý :</b><br> 
 <br>-Sản phẩm tạo ra để quản lý cửa hàng bán quần áo, quản lý hàng hóa của cửa hàng, quản lý nhân viên cửa hàng,...
 <br>-Sản phẩm hướng tới đối tượng  là các cửa hàng bán quần áo nhỏ( cụ thể : CDKShop)
 
