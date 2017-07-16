@@ -13,7 +13,7 @@
 <p><H4>2. Phân tích hệ thống </H4><br/>
 <br/>-Cơ cấu tổ chức cửa hàng:<br/>
 <img src="https://github.com/PhatTrienMaNguonMo/KetThucMon/blob/master/AnhTLTK/01.png" />
-<br/>- Biểu đồ phân cấp chức năng: <br/>
+<br/>- Biểu đồ phân cấp chức năng: <br/> 
 <img src="https://github.com/PhatTrienMaNguonMo/KetThucMon/blob/master/AnhTLTK/02.png" />
 <br/>- Mô hình luồng dữ liệu mức tổng quát: <br/>
 <img src="https://github.com/PhatTrienMaNguonMo/KetThucMon/blob/master/AnhTLTK/03.png" />
