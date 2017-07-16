@@ -6,7 +6,7 @@ Tạo được một phần mềm hỗ trợ việc quản lý shop quần áo C
 
 **Mục tiêu phát triển**
 
-<ul>
+<ul>  
 <li> Đưa phần mềm quản lý shop quần áo CDK ban đầu thành 1 phần mềm quản lý
 shop quần áo chung</li>
 <li>Có quy mô lớn hơn, có cấu trúc đa tầng</li>
