@@ -20,6 +20,8 @@ shop quần áo chung</li>
 <li>Chạy quảng cáo</li>
 <li>Hổ trợ khách hàng trực tuyến(FB, Skype,...)</li>
 <li>Hỗ trợ nhiều hình thức thanh toán(trực tiếp, qua tài khoảng ngân hàng, qua bưu điện)</li>
+<li>Cho phép người dùng đăng kí thành viên, hỗ trợ đăng kí qua tài khoản Facebook, Google</li>
+
 
 </ul>
 
