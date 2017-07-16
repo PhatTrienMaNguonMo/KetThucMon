@@ -40,5 +40,7 @@ Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càn
  <li><b>Xử lí khối dữ liệu lớn</b></li>
  Phần mềm quản lý bán hàng trở nên khá tiện dụng khi bạn đang phải đối phó với khối lượng dữ liệu lớn. Nhưng hiện tại phần mềm quản lý cửa hàng CDK shop chỉ xử lí được một số dữ liệu nhỏ. Cần phát triển thêm một khối lượng lưu trữ lớn hơn giúp cho doanh nghiệp không phải đối mặt với tình trạng tràn dữ liệu.
  <li><b>Cải thiện khả năng quản lý</b></li>
-  Hiện tại, phần mềm chỉ quản lý một số phương diện cần thiết nhưng chưa thực sự chặt chẽ. Cần phát triển thêm một số module để quản lý cửa hàng chặt chẽ hơn.
+  Hiện tại, phần mềm chỉ quản lý một số phương diện cần thiết nhưng chưa thực sự chặt chẽ. Cần phát triển thêm một số module để quản lý cửa hàng chặt chẽ hơn .
+
+
 
