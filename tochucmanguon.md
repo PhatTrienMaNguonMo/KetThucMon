@@ -48,4 +48,4 @@ Lớp này gồm 4 thành phần:<br>
 <img src="https://github.com/PhatTrienMaNguonMo/KetThucMon/blob/master/3%20layers/dal.png" /><br/>
 
 <li>Data Access Logic Components : chịu trách nhiệm chính lưu trữ và truy xuất dữ liệu từ các nguồn dữ liệu (Data Sources) như XML, file system,… Hơn nữa còn tạo thuận lợi cho việc dễ cấu hình và bảo trì.</li>
- <li>Service Agents : giúp bạn gọi và tương tác với các dịch vụ từ bên ngoài một cách dễ dàng và đơn giản.</li>
+ <li>Service Agents : giúp bạn gọi và tương tác với các dịch vụ từ bên ngoài một cách dễ dàng và đơn giản.</li> 
