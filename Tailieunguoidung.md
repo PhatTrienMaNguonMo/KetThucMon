@@ -15,7 +15,7 @@ Mỗi người sẽ được quản trị cấp một tài khoản riêng, sau k
 
 Mỗi một module sẽ quản lý một chức năng với phần thêm, sửa , xóa dữ liệu trong danh sách<br/>
 
-<img src="https://github.com/PhatTrienMaNguonMo/KetThucMon/blob/master/image%20%20TLND/qlhd.png" /><br/>
+<img src="https://github.com/PhatTrienMaNguonMo/KetThucMon/blob/master/image%20%20TLND/qlhd.png" /><br/> 
    
 
 
