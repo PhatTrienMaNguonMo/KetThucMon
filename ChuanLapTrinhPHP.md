@@ -1,5 +1,5 @@
 <H2>CHUẨN LẬP TRÌNH PHP</H2>
-<H3>Chuẩn mực Lines</H3>
+<H3>Chuẩn mực Lines</H3> 
 <table>Khi viết code các lập trình viên phải tuân theo nguyên tắc Lines. Tức là giới hạn số lượng ký tự trên một code. Mõi code quy định tối đa 120 ký tự và tối thiểu 80 ký tự.</table>
 <hr/>
 <H3>Chuẩn mực Method</H3>
