@@ -3,7 +3,7 @@
 Website quản lý cửa hàng bán quần áo luôn chào mừng các bạn đến cho ý kiến và đóng góp để giúp cho trang web hoàn thiện hơn.</br>
 <h3>Cách lấy mã nguồn: </h3></br>
 <ul>
-<li> Lấy Source:  (https://github.com/PhatTrienMaNguonMo/KetThucMon/tree/master/Source%20Code)</li>
+<li> Lấy Source:  (https://github.com/PhatTrienMaNguonMo/KetThucMon/tree/master/BanQuanAo/BanQuanAo)</li>
 <li> Lấy Database:  (https://github.com/PhatTrienMaNguonMo/KetThucMon/tree/master/Source%20Database%20DB2)</li>
 </ul>
 Sau khi lấy dữ liệu về (pull) máy tính các bạn đặt source code vào thư mục xampp/htdocs/... , DB2 thì thực hiện chạy code trên command line processor - Lưu ý: Chạy từng dòng code một.</br>
