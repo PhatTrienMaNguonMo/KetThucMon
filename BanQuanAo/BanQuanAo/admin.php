@@ -108,7 +108,7 @@ font-family:tahoma;
 font-size:13px;
 color:#0f0f0f;
 padding:10px;
-line-height:30px;
+line-height:30px; 
 text-decoration:none;
 }
 table tr td#footer{
