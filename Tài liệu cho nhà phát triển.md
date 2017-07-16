@@ -19,6 +19,8 @@ shop quần áo chung</li>
 <li>Có thể mua bán online</li>
 <li>Chạy quảng cáo</li>
 <li>Hổ trợ khách hàng trực tuyến(FB, Skype,...)</li>
+<li>Hỗ trợ nhiều hình thức thanh toán(trực tiếp, qua tài khoảng ngân hàng, qua bưu điện)</li>
+
 </ul>
 
 **Link tham khảo** 
