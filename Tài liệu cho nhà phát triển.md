@@ -17,6 +17,7 @@ shop quần áo chung</li>
 <li>Phát triển chức năng xử lý việc trả lại (do khách hàng không thích muốn trả lại)</li>
 <li>Xây dụng giao diện dễ nhìn ,phân bổ các module chức năng ở vị trí dễ nhìn ,dễ sử dụng</li>
 <li>Có thể mua bán online</li>
+<li>Chạy quảng cáo</li>
 </ul>
 
 **Link tham khảo** 
