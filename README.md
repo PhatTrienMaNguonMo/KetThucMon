@@ -22,7 +22,7 @@ Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càn
 <li>Quản lý hàng hóa  </li>
  -In ra danh sách mặt hàng (theo tên , thể loại ,..)<br>
  -Cập nhật (thêm, xóa, sửa) mặt hàng.
-<li>Quản lý nhân viên ( quản lý).</li>
+<li>Quản lý nhân viên ( quản lý).</li>     
  -In ra danh sách tài khoản nhân viên ( cả danh sách nhân viên ).<br>
  -Cập nhật ( thêm , xóa ,sửa) id nhân viên , khách hàng .
 <li>Quản lý bán hàng (nhân viên bán hàng   ).</li>
