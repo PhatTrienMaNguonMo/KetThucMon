@@ -28,4 +28,4 @@ insert into user1.CTHD values('HD5', 'MH5', 7)
 
 insert into user1.Login values('trungkien', '123456', 1)
 insert into user1.Login values('minhcuong', '123456', 2)
-insert into user1.Login values('tiendat', '123456', 2)
+insert into user1.Login values('tiendat', '123456', 2)  
