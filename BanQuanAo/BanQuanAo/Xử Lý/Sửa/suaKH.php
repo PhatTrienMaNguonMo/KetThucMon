@@ -17,7 +17,7 @@
 	      require("Connect.php");
 			if($conn)
 				{   
-				    $SQL1= "update user2.KHACHHANG set TenKH='$ten_kh',DiaChiKH='$dia_chi', SDTKH = '$sdt' where MaKH='$ma_kh'";
+				    $SQL1= "update user2.KHACHHANG set TenKH='$ten_kh',DiaChiKH='$dia_chi', SDTKH = '$sdt' where MaKH='$ma_kh'";//thực hiện truy vấn update
 		$stmt = db2_prepare($conn, $SQL1);
 		 if ($stmt) {		
 								  $result = db2_execute($stmt);
