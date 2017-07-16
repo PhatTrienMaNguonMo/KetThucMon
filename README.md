@@ -1,6 +1,7 @@
 # PT PHẦN MỀM MÃ NGUỒN MỞ
 <br/>
-<b>SẢN PHẨM PHẦN MỀM QUẢN LÝ CỬA HÀNG QUẦN ÁO</b>
+#CDK Shop
+<img src="https://github.com/PhatTrienMaNguonMo/KetThucMon/blob/master/readme.png" />
 <hr/><br/>
 Thực hiện :<li>Phạm Tiến Đạt </li>
                    <li> Dương Trung Kiên</li>
