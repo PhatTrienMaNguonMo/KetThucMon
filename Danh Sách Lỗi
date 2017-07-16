@@ -1,0 +1,7 @@
+Sau khi đã kiểm nghiệm phần mềm "Shop quần áo CDK" tôi đã tổng hợp được một số lỗi như sau :
++Chưa thiết kế được form hiển thị hình ảnh sản phẩm
++Chưa xử lý được các thông báo khi thêm, xóa, sửa thành công
++Xử lý bắt lỗi còn chung chung
++Chưa lặp được hóa đơn
++Chưa giải quyết lỗi được rõ ràng
++Quá trình làm thiết kế chồng form, khó sữa chữa
