@@ -38,7 +38,7 @@ Tên class bắt buộc viết dưới dạng StudlyCaps. Chữ cái đầu tiê
 Ví dụ: cú pháp không nên dùng:
 
 tag <? ?>
-
+ 
 short- echo <?= ?> tags</table>
 <hr/>
 
