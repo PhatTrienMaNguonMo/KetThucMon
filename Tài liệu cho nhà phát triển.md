@@ -14,6 +14,7 @@ shop quần áo chung</li>
 <li>Mang tính đa dạng dễ sử dụng</li>
 <li>Bổ sung nhiều chức năng đầy đủ để phần mềm trở thành công cụ hỗ trợ hữu ích</li>
 <li>Phát triển chức năng thanh toán, giỏ hàng dễ sử dụng</li>
+<li>Phát triển chức năng xử lý việc trả lại (do khách hàng không thích muốn trả lại)</li>
 <li>Xây dụng giao diện dễ nhìn ,phân bổ các module chức năng ở vị trí dễ nhìn ,dễ sử dụng</li>
 </ul>
 
