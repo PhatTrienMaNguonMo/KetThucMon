@@ -1,4 +1,4 @@
-<b>PT PHẦN MỀM MÃ NGUỒN MỞ<b>
+<b>PT PHẦN MỀM MÃ NGUỒN MỞ</b>
 <br/>
 # QUẢN LÝ CDK Shop
 <img src="https://github.com/PhatTrienMaNguonMo/KetThucMon/blob/master/readme.png" />
