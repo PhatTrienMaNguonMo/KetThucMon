@@ -1,6 +1,6 @@
-# PT PHẦN MỀM MÃ NGUỒN MỞ
+<b>PT PHẦN MỀM MÃ NGUỒN MỞ<b>
 <br/>
-## CDK Shop
+# QUẢN LÝ CDK Shop
 <img src="https://github.com/PhatTrienMaNguonMo/KetThucMon/blob/master/readme.png" />
 <hr/><br/>
 Thực hiện :<li>Phạm Tiến Đạt </li>
