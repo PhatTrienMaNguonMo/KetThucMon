@@ -25,11 +25,9 @@ shop quần áo chung</li>
 
 </ul>
 
-**Link tham khảo** 
+**Liên hệ** 
 
-Muốn phát triển phần mềm và xuất bản thành phiên bản mới, phải có giấy phép dự án
-được thông qua. Liên hệ gmail: tiendat0625@gmail.com để được phép phát triển và
-xuất bản.
+Mọi ý kiến đóng góp để phastr triển dự án vui lòng liên hệ gmail: tiendat0625@gmail.com để được bàn bạc và phát triển dự án
 
     
 
