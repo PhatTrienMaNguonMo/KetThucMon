@@ -18,7 +18,7 @@ shop quần áo chung</li>
 <li>Xây dụng giao diện dễ nhìn ,phân bổ các module chức năng ở vị trí dễ nhìn ,dễ sử dụng</li>
 </ul>
 
-**Link tham khảo**
+**Link tham khảo** 
 
 Muốn phát triển phần mềm và xuất bản thành phiên bản mới, phải có giấy phép dự án
 được thông qua. Liên hệ gmail: tiendat0625@gmail.com để được phép phát triển và
