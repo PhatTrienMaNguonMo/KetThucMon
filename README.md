@@ -29,7 +29,10 @@ Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càn
   -In ra tổng doanh thu theo ngày . <br>
   -In hóa đơn sản phẩm .<br>
 <li>Quản lý hóa đơn bán hàng</li>
-  - Hiện danh sách hóa đơn
+  - Hiện danh sách hóa đơn.
+
+  
+
   <hr>
   <b>Mục tiêu sử dụng</b> <br> 
   Phần mềm quản lý bán quần áo là một hệ thống được sử dụng để giảm chi phí hoạt động đồng thời thúc đẩy hoạt động kinh doanh bán hàng. Phần mềm này có thể được sử dụng cho các quá trình khác nhau bao gồm quản lý nhân viên, quản lý mặt hàng, và quản lý hóa đơn bán hàng. Phần mềm sẽ cho phép cửa hàng tập trung vào năng lực cốt lõi và lợi thế chiến lược. Sử dụng phần mềm quản lý bán hàng đem lại rất nhiều lợi ích cho doanh nghiệp.
@@ -41,6 +44,7 @@ Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càn
  Phần mềm quản lý bán hàng trở nên khá tiện dụng khi bạn đang phải đối phó với khối lượng dữ liệu lớn. Nhưng hiện tại phần mềm quản lý cửa hàng CDK shop chỉ xử lí được một số dữ liệu nhỏ. Cần phát triển thêm một khối lượng lưu trữ lớn hơn giúp cho doanh nghiệp không phải đối mặt với tình trạng tràn dữ liệu.
  <li><b>Cải thiện khả năng quản lý</b></li>
   Hiện tại, phần mềm chỉ quản lý một số phương diện cần thiết nhưng chưa thực sự chặt chẽ. Cần phát triển thêm một số module để quản lý cửa hàng chặt chẽ hơn .
-
+ <li><b>Thực hiện mua bán online</b></li>
+  Hiện tại, phần mềm chỉ mới chạy trên mạng nội bộ. Cần phát triển thêm một số module thanh toán cũng như xử lí để thực hiện chức năng mua bán online
 
 
