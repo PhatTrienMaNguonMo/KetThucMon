@@ -1,0 +1,21 @@
+create table user2.KHACHHANG(MaKH vargraphic(10) not null primary key, TenKH vargraphic(40) not null, DiaChiKH vargraphic(40) not null, SdtKH varchar(15) not null)
+create table user2.NHANVIEN(MaNV vargraphic(10) not null primary key, HoNV vargraphic(10) not null, TenNV vargraphic(30) not null, NgaySinh date not null, DiaChi vargraphic(40) not null,Sdt varchar(15) not null)
+create table user2.HOADON(MaHD vargraphic(10) not null primary key,MaKH vargraphic(10) not null foreignb references KHACHHANG(MaKH), NgayLapHD Date not null, MaNV vargraphic(10) not null foreigna references NHANVIEN(MaNV) on delete cascade)
+
+insert into user2.NHANVIEN values('NV1','Tran','Minh Cuong','1996-12-28','Nha Trang','0989432437')
+insert into user2.NHANVIEN values('NV2','Duong','Trung Kien','1996-12-12','Nha Trang','0987670799')
+insert into user2.NHANVIEN values('NV3','Pham','Tien Dat','1996-08-06','Ninh Hoa','0865321321')
+insert into user2.NHANVIEN values('NV4','Le','Anh Dat','1996-01-23','Cam Ranh','9653214523')
+insert into user2.NHANVIEN values('NV5','Tran','Minh ','1996-07-07','Dien Khanh','0989412347')
+
+insert into user2.KHACHHANG values('KH1','Duong Van Nga','Duc My City','0984562311')
+insert into user2.KHACHHANG values('KH2','Tran Minh Ky','Nha Trang','0988431564')
+insert into user2.KHACHHANG values('KH3','Nguyen Van Thang','Bac Ninh','0984654653')
+insert into user2.KHACHHANG values('KH4','Nguyen Phu','Da Lat','0984258911')
+insert into user2.KHACHHANG values('KH5','Duong Ngoc','Ha Noi','0984565132')
+
+insert into user2.HOADON values('HD1','KH1','2017-06-05','NV1')
+insert into user2.HOADON values('HD2','KH2','2017-06-06','NV2')
+insert into user2.HOADON values('HD3','KH3','2017-06-07','NV3')
+insert into user2.HOADON values('HD4','KH4','2017-06-08','NV4')
+insert into user2.HOADON values('HD5','KH5','2017-06-09','NV5')
