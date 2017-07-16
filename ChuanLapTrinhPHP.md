@@ -25,7 +25,7 @@ public function functionName()
 
 Ví dụ: const DATE_APPROVED = ’18/02/2017′</table>
 <hr/>
-<H3>Chuẩn mực Namespace và tên Class</H3>
+<H3>Chuẩn mực Namespace và tên Class</H3>   
 <table>Trong lập trình PHP khi viết code thì Namespace và tên Class phải tuân theo nguyên tắc chuẩn” autoloading” trong PSR. Tức là mỗi lớp class phải được lưu vào một file và có ít nhất 1 level trong namespace.
 
 Tên class bắt buộc viết dưới dạng StudlyCaps. Chữ cái đầu tiên pahỉ viết hoa còn các chữ cái tiếp theo viết liền nhau bằng chữ la tinh.
