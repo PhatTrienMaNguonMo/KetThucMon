@@ -31,7 +31,7 @@ Hiện nay Công nghệ thông tin ở Việt Nam đang phát triển ngày càn
 <li>Quản lý hóa đơn bán hàng</li>
   - Hiện danh sách hóa đơn
   <hr>
-  <b>Mục tiêu sử dụng</b> <br>
+  <b>Mục tiêu sử dụng</b> <br> 
   Phần mềm quản lý bán quần áo là một hệ thống được sử dụng để giảm chi phí hoạt động đồng thời thúc đẩy hoạt động kinh doanh bán hàng. Phần mềm này có thể được sử dụng cho các quá trình khác nhau bao gồm quản lý nhân viên, quản lý mặt hàng, và quản lý hóa đơn bán hàng. Phần mềm sẽ cho phép cửa hàng tập trung vào năng lực cốt lõi và lợi thế chiến lược. Sử dụng phần mềm quản lý bán hàng đem lại rất nhiều lợi ích cho doanh nghiệp.
  <hr>
  <b>Mục tiêu phát triển tương lai</b><br>
