@@ -49,7 +49,7 @@ table tr td a{
       $result1 = db2_execute($stmt1);
           while($row1=db2_fetch_array($stmt1)){
 		  
-		  $MH=$MH." ".$row1[6]." - ".$row1[3]." Cái".","; //in tên sách
+		  $MH=$MH." ".$row1[6]." - ".$row1[3]." Cái".","; //in tên san pham
 		  $Tien=$Tien+$row1[8]*$row1[3];//tính tiền
 		  }
 	   }
